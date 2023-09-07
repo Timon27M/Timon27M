@@ -9,7 +9,7 @@
 * Хочу приносить пользу команде
 
 ## Контакты
-email: 'tpich87@gmail.com'  
+email: tpich87@gmail.com  
 Telegram: @Tima2772
 
 ## Мой стек:
@@ -24,7 +24,7 @@ Telegram: @Tima2772
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## Наиболее используемые технологии
+## Наиболее используемые языки
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timon27M)](https://github.com/anuraghazra/github-readme-stats)
 
