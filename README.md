@@ -24,6 +24,20 @@
 email: tpich87@gmail.com  
 Telegram: @Tima2772
 
+##### Most used languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timon27M)](https://github.com/anuraghazra/github-readme-stats)
+
+##### Leetcode
+
+[![Sibusky's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Timon27M)](https://github.com/Timon27M/leetcode-stats)   
+
+##### Codewars
+
+[![codewars](https://www.codewars.com/users/Timon27M/badges/small)](https://www.codewars.com/users/Timon27M)    
+
+![](https://komarev.com/ghpvc/?username=Timon27M)
+
 
 <!--
 **Timon27M/Timon27M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
