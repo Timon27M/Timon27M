@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## Контакты
+email: tpich87@gmail.com
+Telegram: @Tima2772
+
+
 <!--
 **Timon27M/Timon27M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
