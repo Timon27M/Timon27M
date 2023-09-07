@@ -9,7 +9,7 @@
 * Хочу приносить пользу команде
 
 ## Контакты
-email: [tpich87@gmail.com]  
+email: 'tpich87@gmail.com'  
 Telegram: @Tima2772
 
 ## Мой стек:
