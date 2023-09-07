@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47bmlllkyvqiq955bcksdhav4k3e43yy3cokvivmby&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </div>
 
 ## Привет всем, меня зовут Тимофей 👋
