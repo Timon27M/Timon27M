@@ -32,6 +32,8 @@ Telegram: @Tima2772
 
 [![codewars](https://www.codewars.com/users/Tim2772/badges/small)](https://www.codewars.com/users/Tim2772)    
 
+![](https://komarev.com/ghpvc/?username=Timon27M)
+
 <!--
 **Timon27M/Timon27M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
