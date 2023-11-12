@@ -23,8 +23,8 @@ Telegram: @Tima2772
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23F24E1E.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
-![Redux](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23F24E1E.svg?style=for-the-badge&logo=TypeScript&logoColor=blue)
+![Redux](https://img.shields.io/badge/Redux-%23F24E1E.svg?style=for-the-badge&logo=Redux&logoColor=orange)
 
 ## Наиболее используемые языки
 
