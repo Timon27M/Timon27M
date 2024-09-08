@@ -1,4 +1,7 @@
+<h1 align="center">
 # Привет, меня зовут Тимофей 👋    
+  
+</h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="170"/>
 </div>
