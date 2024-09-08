@@ -2,7 +2,9 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="170"/>
 </div>
 
-#### Привет, меня зовут Тимофей 👋
+<div id="text" align="center">
+  ## Привет, меня зовут Тимофей 👋
+</div>
 
 ## Контакты
 email: tpich87@gmail.com  
