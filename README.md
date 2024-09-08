@@ -3,7 +3,7 @@
 </div>
 
 <div id="text" align="center">
-  <p style="font-size: 35px">
+  <p style="font-size: "90px"">
     Привет, меня зовут Тимофей 👋    
   </p>
 </div>
