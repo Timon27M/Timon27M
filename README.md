@@ -5,7 +5,7 @@
 
 
 ## Контакты
-email: tpich87@gmail.com  
+email: timronny27@gmail.com 
 Telegram: @Tima2772
 
 ## Мой стек:
