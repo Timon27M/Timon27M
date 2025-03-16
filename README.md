@@ -23,15 +23,13 @@ Telegram: @Tima2772
 
 ## Наиболее используемые языки
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timon27M)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timon27M)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com?user=Timon27M&theme=javascript&border_radius=60&locale=ru&hide_total_contributions=true)](https://git.io/streak-stats)
 
 ## Codewars
 
 [![codewars](https://www.codewars.com/users/Tim2772/badges/small)](https://www.codewars.com/users/Tim2772)    
 
 ![](https://komarev.com/ghpvc/?username=Timon27M)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Timon27M&theme=javascript&border_radius=60&locale=ru&hide_total_contributions=true)](https://git.io/streak-stats)
 
 <!--
 **Timon27M/Timon27M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
