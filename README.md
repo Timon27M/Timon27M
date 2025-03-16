@@ -3,6 +3,8 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" height="270"/>
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Timon27M&theme=javascript&border_radius=60&locale=ru)](https://git.io/streak-stats)
+
 
 ## Контакты
 email: timronny27@gmail.com 
