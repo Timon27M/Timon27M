@@ -3,9 +3,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" height="270"/>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Timon27M&theme=javascript&border_radius=60&locale=ru)](https://git.io/streak-stats)
-
-
 ## Контакты
 email: timronny27@gmail.com 
 Telegram: @Tima2772
@@ -33,6 +30,8 @@ Telegram: @Tima2772
 [![codewars](https://www.codewars.com/users/Tim2772/badges/small)](https://www.codewars.com/users/Tim2772)    
 
 ![](https://komarev.com/ghpvc/?username=Timon27M)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Timon27M&theme=javascript&border_radius=60&locale=ru&hide_total_contributions=true)](https://git.io/streak-stats)
 
 <!--
 **Timon27M/Timon27M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
