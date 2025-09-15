@@ -3,6 +3,9 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" height="270"/>
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timon27M&layout=compact&theme=transparent&hide_border=true&card_width=800)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Контакты
 email: timronny27@gmail.com 
 Telegram: @Tima2772
