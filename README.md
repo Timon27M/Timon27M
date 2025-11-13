@@ -30,7 +30,6 @@ Telegram: @Molty27
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timon27M)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com?user=Timon27M&theme=javascript&border_radius=60&locale=ru&hide_total_contributions=true)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timon27M&stats_format=bytes)
 ## Codewars
 
 [![codewars](https://www.codewars.com/users/Tim2772/badges/small)](https://www.codewars.com/users/Tim2772)    
