@@ -28,7 +28,10 @@ Telegram: @Molty27
 
 ## Наиболее используемые языки
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timon27M)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com?user=Timon27M&theme=javascript&border_radius=60&locale=ru&hide_total_contributions=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timon27M)](https://github.com/anuraghazra/github-readme-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Timon27M&theme=javascript&border_radius=60&locale=ru&hide_total_contributions=true)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timon27M)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Codewars
 
