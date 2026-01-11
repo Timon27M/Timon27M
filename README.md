@@ -28,9 +28,7 @@ Telegram: @Molty27
 
 ## Наиболее используемые языки
 
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Timon27M&layout=donut)](https://github.com/Timon27M/github-readme-stats)
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Timon27M&layout=compact)
-
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Timon27M&theme=javascript&border_radius=60&locale=ru&hide_total_contributions=true)](https://git.io/streak-stats)
 
