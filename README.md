@@ -40,9 +40,7 @@ Telegram: @Molty27
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Timon27M&theme=javascript&border_radius=60&locale=ru&hide_total_contributions=true)](https://git.io/streak-stats)
 
-## Codewars
-
-[![codewars](https://www.codewars.com/users/Tim2772/badges/small)](https://www.codewars.com/users/Tim2772)    
+## Codewars  
 
 ![](https://komarev.com/ghpvc/?username=Timon27M)
 
