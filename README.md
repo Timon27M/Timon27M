@@ -9,7 +9,7 @@ email: molty175@gmail.com
 Telegram: @Molty27
 
 ## Мой стек:
-<div style="background: white; border-radius: 5px; padding: 5px;">
+<div style="background-color: white; padding: 20px; border-radius: 10px; display: inline-block;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
