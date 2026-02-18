@@ -9,7 +9,7 @@ email: molty175@gmail.com
 Telegram: @Molty27
 
 ## Мой стек:
-<div style="background-color: white; padding: 20px; border-radius: 10px; display: inline-block;">
+<p align="center" style="background-color: white; padding: 20px; border-radius: 15px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -35,7 +35,7 @@ Telegram: @Molty27
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original-wordmark.svg" title="hibernate" alt="hibernate" width="40" height="40"/>&nbsp;
-</div>
+</p>
 
 ## Наиболее используемые языки
 
