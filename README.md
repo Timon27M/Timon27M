@@ -86,8 +86,6 @@ Telegram: @Molty27
 
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Timon27M&layout=compact)
 
-## Codewars  
-
 ![](https://komarev.com/ghpvc/?username=Timon27M)
 
 <!--
